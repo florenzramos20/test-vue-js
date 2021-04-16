@@ -1,0 +1,16 @@
+{ 
+ "accounts" : [
+    {
+        "id" : "1",
+        "email" : "admin_admin@testmail.com",
+        "password" : "admin",
+        "user_type":"Administator"
+    },
+    {
+        "id" : "2",
+        "email" : "user_user@testmail.com",
+        "password" : "user1" ,
+        "user_type":"User"
+    }
+ ]
+}
